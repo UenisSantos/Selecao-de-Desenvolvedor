@@ -14,9 +14,9 @@ dos números 3, 5, 6, 9 e 10 que são menores que 11.
 ### o projeto foi desenvolvido com dart,basta clonar o projeto e rodar no seu editor preferido, no terminal basta dar um dart run .
 <img src="https://i.ibb.co/vwH7Wmj/Captura-de-tela-de-2022-01-17-21-22-48.png" alt="Captura-de-tela-de-2022-01-17-21-22-48" border="0">
 
-# caso não tenha conhecimento de como clonar ou não tenha o dart estalado,bastar copiar todo o codigo e colar no dartPad online
+# caso não tenha conhecimento de como clonar ou não tenha o dart estalado,bastar copiar todo o codigo  da pasta bin/teste_de_conhecimento.dart e colar no dartPad online
 
-- [ # dartPad online](https://www.dartpad.dev/?)
+- [# dartPad online](https://www.dartpad.dev/?)
 
 <img src="https://i.ibb.co/QCFBZVj/Captura-de-tela-de-2022-01-17-21-29-58.png" alt="Captura-de-tela-de-2022-01-17-21-29-58" border="0">
 
